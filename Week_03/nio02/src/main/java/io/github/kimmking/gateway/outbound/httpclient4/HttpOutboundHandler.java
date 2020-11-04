@@ -1,4 +1,4 @@
-package nio02.src.main.java.io.github.kimmking.gateway.outbound.httpclient4;
+package io.github.kimmking.gateway.outbound.httpclient4;
 
 
 import io.netty.buffer.Unpooled;

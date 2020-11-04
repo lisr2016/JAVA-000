@@ -1,4 +1,4 @@
-package nio02.src.main.java.io.github.kimmking.gateway.inbound;
+package io.github.kimmking.gateway.inbound;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

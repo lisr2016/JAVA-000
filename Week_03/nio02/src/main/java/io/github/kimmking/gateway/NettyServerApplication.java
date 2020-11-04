@@ -1,4 +1,4 @@
-package nio02.src.main.java.io.github.kimmking.gateway;
+package io.github.kimmking.gateway;
 
 
 import io.github.kimmking.gateway.inbound.HttpInboundServer;

@@ -1,4 +1,4 @@
-package nio02.src.main.java.io.github.kimmking.gateway.router;
+package io.github.kimmking.gateway.router;
 
 import java.util.List;
 

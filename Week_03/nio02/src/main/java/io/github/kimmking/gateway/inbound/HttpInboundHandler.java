@@ -1,4 +1,4 @@
-package nio02.src.main.java.io.github.kimmking.gateway.inbound;
+package io.github.kimmking.gateway.inbound;
 
 import io.github.kimmking.gateway.outbound.httpclient4.HttpOutboundHandler;
 import io.netty.channel.ChannelHandlerContext;
